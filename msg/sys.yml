@@ -268,7 +268,7 @@
 - id: 0x011E
   en: "Original"
   it: "Originale"
-  gr: "Original"
+  gr: "Origilal"
   fr: "Originale"
   sp: "Original"
 
@@ -594,23 +594,28 @@
   gr: "NEIN"
   fr: "NON"
   sp: "No"
-
-# === Discord RPC Text === #
+  
+  # === Discord RPC Text === #
 
 - id: 0x0140
   en: "HP: [0] / MP: [1]"
+  sp: "VT: [0] / PM: [1]"
 
 - id: 0x0141
   en: "Level [0] / Form: [1]"
+  sp: "Nivel [0] / Forma: [1]"
 
 - id: 0x0142
   en: "Level [0] / Round [2] / Form: [1]"
+  sp: "Nivel [0] / Ronda [2] / Forma: [1]"
 
 - id: 0x0143
   en: "In-Game Time: [0]"
+  sp: "Tiempo de juego: [0]"
 
 - id: 0x0144
   en: "On Recharge!"
+  sp: "¡Recargando!"
 
 # === Item Text === #
 
